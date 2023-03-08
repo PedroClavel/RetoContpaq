@@ -1,0 +1,12 @@
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumnos.Business\obj\Debug\net6.0\Utilerias.Business.csproj.AssemblyReference.cache
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumnos.Business\obj\Debug\net6.0\Utilerias.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumnos.Business\obj\Debug\net6.0\Utilerias.Business.AssemblyInfoInputs.cache
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumnos.Business\obj\Debug\net6.0\Utilerias.Business.AssemblyInfo.cs
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumnos.Business\obj\Debug\net6.0\Utilerias.Business.csproj.CoreCompileInputs.cache
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumnos.Business\bin\Debug\net6.0\Utilerias.Business.deps.json
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumnos.Business\bin\Debug\net6.0\Utilerias.Business.dll
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumnos.Business\bin\Debug\net6.0\Utilerias.Business.pdb
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumnos.Business\obj\Debug\net6.0\Utilerias.Business.dll
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumnos.Business\obj\Debug\net6.0\refint\Utilerias.Business.dll
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumnos.Business\obj\Debug\net6.0\Utilerias.Business.pdb
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumnos.Business\obj\Debug\net6.0\ref\Utilerias.Business.dll

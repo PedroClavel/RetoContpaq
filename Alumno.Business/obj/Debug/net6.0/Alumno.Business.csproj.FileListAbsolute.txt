@@ -1,0 +1,17 @@
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumno.Business\bin\Debug\net6.0\Alumno.Business.deps.json
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumno.Business\bin\Debug\net6.0\Alumno.Business.dll
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumno.Business\bin\Debug\net6.0\Alumno.Business.pdb
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumno.Business\bin\Debug\net6.0\Models.dll
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumno.Business\bin\Debug\net6.0\Utilerias.Business.dll
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumno.Business\bin\Debug\net6.0\Utilerias.Business.pdb
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumno.Business\bin\Debug\net6.0\Models.pdb
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumno.Business\obj\Debug\net6.0\Alumno.Business.csproj.AssemblyReference.cache
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumno.Business\obj\Debug\net6.0\Alumno.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumno.Business\obj\Debug\net6.0\Alumno.Business.AssemblyInfoInputs.cache
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumno.Business\obj\Debug\net6.0\Alumno.Business.AssemblyInfo.cs
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumno.Business\obj\Debug\net6.0\Alumno.Business.csproj.CoreCompileInputs.cache
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumno.Business\obj\Debug\net6.0\Alumno.Business.csproj.CopyComplete
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumno.Business\obj\Debug\net6.0\Alumno.Business.dll
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumno.Business\obj\Debug\net6.0\refint\Alumno.Business.dll
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumno.Business\obj\Debug\net6.0\Alumno.Business.pdb
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Alumno.Business\obj\Debug\net6.0\ref\Alumno.Business.dll

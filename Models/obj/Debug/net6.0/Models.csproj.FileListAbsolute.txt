@@ -1,0 +1,14 @@
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Models\bin\Debug\net6.0\Models.deps.json
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Models\bin\Debug\net6.0\Models.runtimeconfig.json
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Models\bin\Debug\net6.0\Models.dll
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Models\bin\Debug\net6.0\Models.pdb
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Models\obj\Debug\net6.0\Models.dll
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Models\obj\Debug\net6.0\refint\Models.dll
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Models\obj\Debug\net6.0\Models.pdb
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Models\obj\Debug\net6.0\Models.genruntimeconfig.cache
+C:\Proyectos\BackEnd_RegistroDeAlumnoAPI\Models\obj\Debug\net6.0\ref\Models.dll
